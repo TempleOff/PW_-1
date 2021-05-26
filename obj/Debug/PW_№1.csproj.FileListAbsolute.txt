@@ -1,0 +1,7 @@
+C:\Users\Honor MagicBook\OneDrive\Рабочий стол\Практика\PW_№1\PW_№1\bin\Debug\PW_№1.exe.config
+C:\Users\Honor MagicBook\OneDrive\Рабочий стол\Практика\PW_№1\PW_№1\bin\Debug\PW_№1.exe
+C:\Users\Honor MagicBook\OneDrive\Рабочий стол\Практика\PW_№1\PW_№1\bin\Debug\PW_№1.pdb
+C:\Users\Honor MagicBook\OneDrive\Рабочий стол\Практика\PW_№1\PW_№1\obj\Debug\PW_№1.csprojAssemblyReference.cache
+C:\Users\Honor MagicBook\OneDrive\Рабочий стол\Практика\PW_№1\PW_№1\obj\Debug\PW_№1.csproj.CoreCompileInputs.cache
+C:\Users\Honor MagicBook\OneDrive\Рабочий стол\Практика\PW_№1\PW_№1\obj\Debug\PW_№1.exe
+C:\Users\Honor MagicBook\OneDrive\Рабочий стол\Практика\PW_№1\PW_№1\obj\Debug\PW_№1.pdb
